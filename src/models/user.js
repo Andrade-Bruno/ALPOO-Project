@@ -23,7 +23,7 @@ const User = sequelize.define("user", {
         allowNull: false,
         type: Sequelize.DOUBLE(),
         validate: {
-            len: [0.01, 1000]
+            len: [0.01, 999999999]
         }
     },
     birthday: {

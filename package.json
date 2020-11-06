@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andrade-Bruno/Projeto-ALPOO.git"
+    "url": "git+https://github.com/Andrade-Bruno/ALPOO-Project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Andrade-Bruno/Projeto-ALPOO/issues"
+    "url": "https://github.com/Andrade-Bruno/ALPOO-Project/issues"
   },
-  "homepage": "https://github.com/Andrade-Bruno/Projeto-ALPOO#readme",
+  "homepage": "https://github.com/Andrade-Bruno/ALPOO-Project#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
